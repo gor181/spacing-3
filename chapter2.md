@@ -37,3 +37,32 @@ key: 68be035dca
 
 
 
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise 
+xp: 50 
+key: 20146471f5   
+```
+
+
+
+
+`@hint`
+
+
+
+
+
+
+`@possible_answers`
+
+
+`@feedbacks`
+
+
+
+
